@@ -1,0 +1,14 @@
+[=-=-=-=-=___ Change Log ___=-=-=-=-=]
+[1.]: **Modmail**
+----
+[1.]: To setup modmail do >setup modmail
+[2.]: To create a modmail session do >modmail
+[3.]: To send message to mods do >sendmodmail (preferd message)
+[4.]: To send message to members do >modmailSend (preferd message)
+------------------------------------------------------------------
+[2.]: **New setup command**
+----
+[1.]: To check things that are setup do >setup settings
+------------------------------------------------------------------
+[3.]: Index.js Commands were moved to Commands/Plugins
+[=-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-=]

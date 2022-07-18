@@ -1,0 +1,9 @@
+{
+    "api_key": {
+        "masterkey": "7122011",
+        "tester": "10101010"
+    },
+    "api_settings":{
+        "mongodb": "mongodb://admin:Xx7hloackn@n1.artiom.host:1522/Api-data?authSource=admin"
+    }
+    }
