@@ -4,10 +4,12 @@ Nova/handler/Variables.js
 Nova/handler/config.js
 Nova/handler/config.json
 Nova/handler/status.js
+Nova/.env
 Nova/package-lock.json
 novaapi/node_modules/*
 novaapi/package-lock.json
-novaapi/config.json
+novaapi/assets/config.json
+novaapi/assets/.env
 novaimgapi/node_modules/*
 novaimgapi/package-lock.json
 Nova/handler/botconfigs/.env
