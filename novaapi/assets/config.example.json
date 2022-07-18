@@ -1,9 +1,0 @@
-{
-    "api_key": {
-        "masterkey": "",
-        "tester": ""
-    },
-    "api_settings":{
-        "mongodb": ""
-    }
-    }
