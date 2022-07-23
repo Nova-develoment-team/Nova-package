@@ -20,7 +20,7 @@ const config = require("./handler/botconfigs/config.js");
 //Github puller (WARNING: BROKEN)
 //if(true){
 //  setInterval(async () => {
-//      await exec(`git pull https://duckytutorials-team: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@github.com/nova-develoment-team/Nova-package.git`, async (error, stdout) => {
+//      await exec(`git pull https://duckytutorials-team:config.git.PAT@github.com/nova-develoment-team/Nova-package.git`, async (error, stdout) => {
 //          let response = (error || stdout);
 //          if (!error) {
 //                 if (!response.includes("Already up to date.")){
